@@ -23,6 +23,7 @@ Web Api functionality can be can tested via swagger or postman etc. For swagger 
 
 ## Console App
 After running both web api and console app, please select any artist from the given artist list. By default Michael Jakson will be selected.
+
 ![image](https://user-images.githubusercontent.com/113265013/189716354-e83c6c6b-a778-4316-ac8a-4977ca2cea8c.png)
 
 ## Output:1 
