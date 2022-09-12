@@ -1,5 +1,5 @@
 # Song Lyrics
-This console based application provides total lyrics all avaibale songs of select artist. 
+This console based application provides total lyrics of all available songs of select artist. 
 
 ## Mutli Start Projects
 We need to start Api and Console Application.
@@ -25,9 +25,9 @@ Web Api functionality can be can tested via swagger or postman etc. For swagger 
 After running both web api and console app, please select any artist from the given artist list. By default Michael Jakson will be selected.
 ![image](https://user-images.githubusercontent.com/113265013/189716354-e83c6c6b-a778-4316-ac8a-4977ca2cea8c.png)
 
-OutPut: 
+##OutPut:1 
 ![image](https://user-images.githubusercontent.com/113265013/189716665-2c4fbd73-1773-4c28-bf29-b5f81f0b8ed8.png)
 
-OutPut:
+##OutPut:2
 ![image](https://user-images.githubusercontent.com/113265013/189716727-ee25311c-0825-4b30-884e-bd153de29f44.png)
 
