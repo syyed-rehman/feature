@@ -19,7 +19,7 @@ This project also use some third part libraries.
 3) Sharprompt 2.4.4
 
 ## Web Api 
-Web Api functionality can be can tested via swagger or postman etc. For swagger please change launch brower settings to true inside SongsLyrics Api launchsettings.json
+Web Api functionality can be can tested via swagger or postman etc. For swagger please change launch browser settings to true inside SongsLyrics Api launchsettings.json
 
 ## Console App
 After running both web api and console app, please select any artist from the given artist list. By default Michael Jakson will be selected.
