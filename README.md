@@ -34,3 +34,11 @@ After running both web api and console app, please select any artist from the gi
 
 ## Note
 This small demo application is built just for demo and study purposes.
+
+## Biblography
+https://github.com/shibayan/Sharprompt
+https://genius.com/Taylor-swift-delicate-lyrics
+https://www.azlyrics.com/lyrics/taylorswift/timmcgraw.html
+https://www.azlyrics.com/lyrics/michaeljackson/thriller.html
+https://www.azlyrics.com/lyrics/jcole/sheknows.html
+
