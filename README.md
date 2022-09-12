@@ -32,3 +32,5 @@ After running both web api and console app, please select any artist from the gi
 ## Output:2
 ![image](https://user-images.githubusercontent.com/113265013/189716727-ee25311c-0825-4b30-884e-bd153de29f44.png)
 
+## Note
+This small demo application is built just for non demo and study purposes. 
