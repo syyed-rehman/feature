@@ -13,7 +13,7 @@ Please start Api with name SongLyrics and then Console App.
 ![image](https://user-images.githubusercontent.com/113265013/189713954-9b29e824-a53b-40ce-83fa-3c25837d8c64.png)
 
 ## Third Party
-This project also use some third part ddl.
+This project also use some third part libraries.
 1) nlog.extensions.logging version 5.0.4
 2) AutoMapper.Extensions.Microsoft.DependencyInjection version 11.0.0
 3) Sharprompt 2.4.4
